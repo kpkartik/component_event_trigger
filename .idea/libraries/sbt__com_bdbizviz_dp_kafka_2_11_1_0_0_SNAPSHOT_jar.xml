@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.bdbizviz.dp:kafka_2.11:1.0.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.bdbizviz.dp/kafka_2.11/1.0.0-SNAPSHOT/jars/kafka_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.bdbizviz.dp/kafka_2.11/1.0.0-SNAPSHOT/docs/kafka_2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.bdbizviz.dp/kafka_2.11/1.0.0-SNAPSHOT/srcs/kafka_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
